@@ -1,0 +1,13 @@
+html{
+    background-image: url("https://66.media.tumblr.com/d079310dbb9c5cae587541bd4e47adf9/tumblr_ovryumg6SW1vsjcxvo1_540.gif");
+}
+
+#moneyyy, #flower, #kimP {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;   
+}
+
+
+
